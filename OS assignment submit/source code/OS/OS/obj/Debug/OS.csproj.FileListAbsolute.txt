@@ -1,0 +1,12 @@
+C:\Users\lee\source\repos\OS\OS\obj\Debug\OS.csprojAssemblyReference.cache
+C:\Users\lee\source\repos\OS\OS\obj\Debug\OS.StartPage.resources
+C:\Users\lee\source\repos\OS\OS\obj\Debug\OS.Properties.Resources.resources
+C:\Users\lee\source\repos\OS\OS\obj\Debug\OS.csproj.GenerateResource.cache
+C:\Users\lee\source\repos\OS\OS\obj\Debug\OS.csproj.CoreCompileInputs.cache
+C:\Users\lee\source\repos\OS\OS\bin\Debug\OS.exe.config
+C:\Users\lee\source\repos\OS\OS\bin\Debug\OS.exe
+C:\Users\lee\source\repos\OS\OS\bin\Debug\OS.pdb
+C:\Users\lee\source\repos\OS\OS\obj\Debug\OS.exe
+C:\Users\lee\source\repos\OS\OS\obj\Debug\OS.pdb
+C:\Users\lee\source\repos\OS\OS\obj\Debug\OS.MainPage.resources
+C:\Users\lee\source\repos\OS\OS\obj\Debug\OS.ResultPage.resources
