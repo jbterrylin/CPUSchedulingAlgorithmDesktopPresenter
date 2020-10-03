@@ -30,16 +30,16 @@ Future enhancement:
   - Clean code.
   - Add in round robin (Actually i done but i lazy so i didn't show it in UI. So other people cant use la hahahaha)
   - Add in a diary 
-      For exmaple: 
-        Second 1:
-          P1 arrive. 
-          CPU is empty. 
-          P1 is in CPU and process.
-        Second 2:
-          P2 arrive. 
-          CPU is working. 
-          P1 processing.
-          P2 waiting.
+      - For exmaple: 
+        - Second 1:
+          - P1 arrive. 
+          - CPU is empty. 
+          - P1 is in CPU and process.
+        - Second 2:
+          - P2 arrive. 
+          - CPU is working. 
+          - P1 processing.
+          - P2 waiting.
   - More credits
   - Gantchart with color.
   
